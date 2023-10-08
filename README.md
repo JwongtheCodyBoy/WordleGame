@@ -1,4 +1,5 @@
 # WordleGame
+Created  by: Jonathan Wong
 Wordle game played in the terminal made in python
 
 The word list used for the game was found online, Posted by dracos, link:
